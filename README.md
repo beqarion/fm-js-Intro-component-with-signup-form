@@ -36,7 +36,7 @@ Users should be able to:
 
 - [Solution](https://github.com/beqarion/fm-js-Intro-component-with-sign-up-form)
 
-- [Live Site](https://beqarion.github.io/3-column-preview-card-component/)
+- [Live Site](https://fm-component-signup-form.netlify.app/)
 
 ## My process
 
