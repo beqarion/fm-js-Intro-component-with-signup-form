@@ -2,10 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  .error-class{
-    @apply {
-      
-    }
-  }
+@layer utilities {
+}
+input.error-class {
+  @apply border-2 border-primary-red text-red-400 lg:pr-[calc(32px+24px+32px)] pr-[calc(19.41px+24px+19.41px)] outline-none;
 }
